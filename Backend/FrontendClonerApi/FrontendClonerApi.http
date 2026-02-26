@@ -1,0 +1,6 @@
+@FrontendClonerApi_HostAddress = http://localhost:5070
+
+GET {{FrontendClonerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

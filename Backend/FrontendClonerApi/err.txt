@@ -1,0 +1,11 @@
+﻿  Determining projects to restore...
+  All projects are up-to-date for restore.
+D:\HTML\clonefrontend\Backend\FrontendClonerApi\Services\ClonerService.cs(256,60): error CS1061: 'ISingleClientProxy' does not contain a definition for 'SendAsync' and no accessible extension method 'SendAsync' accepting a first argument of type 'ISingleClientProxy' could be found (are you missing a using directive or an assembly reference?) [D:\HTML\clonefrontend\Backend\FrontendClonerApi\FrontendClonerApi.csproj]
+
+Build FAILED.
+
+D:\HTML\clonefrontend\Backend\FrontendClonerApi\Services\ClonerService.cs(256,60): error CS1061: 'ISingleClientProxy' does not contain a definition for 'SendAsync' and no accessible extension method 'SendAsync' accepting a first argument of type 'ISingleClientProxy' could be found (are you missing a using directive or an assembly reference?) [D:\HTML\clonefrontend\Backend\FrontendClonerApi\FrontendClonerApi.csproj]
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:04.01
